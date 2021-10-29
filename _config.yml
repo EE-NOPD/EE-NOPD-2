@@ -185,3 +185,5 @@ JB :
 
 # allow page redirection
 plugins:
+
+theme: jekyll-theme-slate
